@@ -39,11 +39,6 @@ This project documents the setup and configuration of a development environment 
 - **Cause:** First-time interaction with repository linking inside an IDE.
 - **Solution:** Followed standard Git workflow: initialized repository, staged changes, committed, and pushed to confirm successful synchronization.
 
-### Issue 3: Markdown File Formatting
-- **Problem:** Needed to ensure the README was clean, structured, and readable.
-- **Cause:** Limited prior use of Markdown formatting.
-- **Solution:** Referenced Markdown documentation and applied headings, lists, and spacing to improve clarity and presentation.
-
 ---
 
 ## Key Learnings
